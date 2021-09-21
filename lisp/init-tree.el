@@ -136,8 +136,6 @@
           ("M-y" . helm-show-kill-ring)
           ("M-x" . helm-M-x)))
 
-
-
 (provide 'init-tree)
 
 ;;; init-tree.el ends here
