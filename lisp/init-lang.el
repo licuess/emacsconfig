@@ -3,7 +3,7 @@
 ;;; code:
 
 
-(setq ccls-executable "/path/to/ccls/Release/ccls")
+(setq ccls-executable "/usr/local/bin/ccls")
 
 (provide 'init-lang)
 
